@@ -1,0 +1,1 @@
+The code is compiled in Visual Studio Code. Uses sklearn libraries for classifiers. Has Naive Bayes and K-NN Classifiers implemented with some results and plots. Have to implement RnadomForest Classifier and SVM.
