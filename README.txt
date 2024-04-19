@@ -4,3 +4,6 @@ Tasks left:
 1. Implementing RandomForest and SVM Classifiers
 2. Comparing all
 3. Results and Analysis
+
+Scraper code included: team_Scraper.ipynb
+cvs file : understat.com.csv
