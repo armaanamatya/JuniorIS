@@ -6,4 +6,4 @@ Tasks left:
 3. Results and Analysis
 
 Scraper code included: team_Scraper.ipynb
-cvs file : understat.com.csv
+csv file : understat.com.csv
